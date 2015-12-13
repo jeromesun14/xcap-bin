@@ -2,7 +2,11 @@
 Xcap is a windows based packet generator &amp; sender tool, you can use it to create a packet, then send it through a specified interfaces on you computer.
 
 ## Purpose of this repo
-The official site of xcap is http://xcap.weebly.com. It's a bit of slow in China, so I put its binary for personal backup.
+The official site of xcap is http://xcap.weebly.com. It's a bit of slow in China, so I put its binary here for personal backup.
+
+## Versions
+
+* 1.0.14, seems to update on 2015/10/15
 
 ## Source of xcap
 Xcap is not open now. 
