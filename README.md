@@ -11,7 +11,7 @@ Xcap is not open now.
 > If you find any problems, please tell me, cxxxap@gmail.com
 > From: http://xcap.weebly.com/source-code.html 
 
-You can find it's old version source code in google code, [link](https://code.google.com/p/xcap/). 
+You can find its old version source code in google code, [detail](https://code.google.com/p/xcap/). 
 
 ## Requirements
 Windows XP/Windows7
